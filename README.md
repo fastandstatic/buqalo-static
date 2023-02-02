@@ -1,0 +1,1 @@
+# buqalo-static
