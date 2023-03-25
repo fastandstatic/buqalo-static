@@ -9,8 +9,8 @@
 
 <channel>
 	<title>buqalo</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 15 Mar 2023 14:08:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/03/cropped-LOGO-BUQALO-CUADRADO-32x32.png</url>
+	<url>./../wp-content/uploads/2023/03/cropped-LOGO-BUQALO-CUADRADO-32x32.png</url>
 	<title>buqalo</title>
-	<link>/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

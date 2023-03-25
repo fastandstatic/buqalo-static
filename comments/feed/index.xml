@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for buqalo	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
-	<lastBuildDate>Tue, 14 Feb 2023 15:33:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Mar 2023 14:08:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
